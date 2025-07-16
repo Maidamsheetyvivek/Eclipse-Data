@@ -7,7 +7,6 @@ public class HealthCareLogin {
 		System.out.println("Password");
 		System.out.println("Click on Submit button");
 		
-
 	}
 
 }
